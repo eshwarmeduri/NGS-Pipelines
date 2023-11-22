@@ -1,2 +1,2 @@
 # NGS-Pipilines
-ChIP-Seq,RNA-Seq
+ChIP-Seq, RNA-Seq, HiChIP
