@@ -1,3 +1,4 @@
+
 RNA-Seq pipeline
 
 This nextflow script does the following
