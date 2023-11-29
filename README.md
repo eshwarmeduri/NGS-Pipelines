@@ -1,2 +1,2 @@
-# NGS-Pipilines
-ChIP-Seq, RNA-Seq, HiChIP
+# NGS-Pipelines
+ChIP-Seq, RNA-Seq, HiChIP, eCLIP
