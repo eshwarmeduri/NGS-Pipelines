@@ -26,7 +26,7 @@ process trimGalore {
     tuple val(sample_id), path(reads)
 
     output:
-    tuple val(sample_id), path ("*.fq.gz")
+    tuple val(sample_id), path ("*")
 
     script:
     """
